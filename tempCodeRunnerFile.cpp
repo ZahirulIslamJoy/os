@@ -1,0 +1,1 @@
+ // freopen("./bank.txt","r",stdin);
